@@ -1,0 +1,3 @@
+exclude:
+  - sources_md
+  - sources_pdf
