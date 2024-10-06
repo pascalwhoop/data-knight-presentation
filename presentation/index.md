@@ -35,9 +35,10 @@ _class:
 # Using Knowledge Graphs in Drug  Repurposing
 ## The Evolution from Traditional KGs to Foundation Models
 
-Pascal Brokmeier
 
-Head of Engineering,<br> Every Cure
+[Pascal Brokmeier](https://www.linkedin.com/in/pascalwhoop/)
+
+Currently Head of Engineering at<br> Every Cure
 
 ---
 
@@ -221,7 +222,7 @@ However, we are still using the KG as an intermediate information representation
 
 ## Maybe _Attention is all you need_?
 
-![bg 80%](./assets/attentionallyouneed.excalidraw.svg)
+![bg 50%](./assets/attentionallyouneed.excalidraw.svg)
 
 ---
 
@@ -234,9 +235,6 @@ However, we are still using the KG as an intermediate information representation
 - Generating predictions is easy, verifying if they are correct is hard
 
 
-<!-- 
-_class: lead
--->
 
 ---
 
@@ -249,9 +247,9 @@ _class: lead
 
 ---
 
-# Cool Stuff
+# Some useful links
 
-![bg right 20%](./assets/links_qr.png)
+![bg right:40% fit](./assets/qrcode.excalidraw.svg)
 
 - [TXGNN](http://txgnn.org/)
 - [Monarch initiative, doing the integation heavy lifting](https://monarchinitiative.org)
