@@ -30,7 +30,7 @@ _class:
 - lead
 -->
 
-![bg right](https://picsum.photos/720?image=29)
+![bg right](./assets/cover.png)
 
 # Using Knowledge Graphs in Drug  Repurposing
 ## The Evolution from Traditional KGs to Foundation Models
