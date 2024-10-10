@@ -177,8 +177,11 @@ _class: lead
 
 - KGs need to ingest existing data, often from the same sources
 - However, how data is ingested differs greatly 
-- So if more is not always better and ingest does not = ingest
-- How about unifying standards?
+- So if 
+  - more is not always better & 
+  - `ingest ≠ ingest`
+
+... how about we standardize things?
 
 
 
