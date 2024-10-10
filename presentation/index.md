@@ -106,12 +106,22 @@ Same time: Data availability explosion
 
 What if we could use this data 🤔
 
+
 ---
 ## 1990 - 2010: Silos of Knowledge being built up
 
 - Various domains building up their data domains
 - Connectivity between them mostly missing
 - Progress is made but unified view lacking
+
+<!--
+- Pharma companies are massively investing across their entire lifecycle
+- Large amounts of data are generated
+- However as with all large enterprises, data is siloed
+- Pharma is particularly plagued by low collaboration due to sensitivity of data
+ -->
+
+![bg right fit](./assets/silos.excalidraw.svg)
 
 ---
 <!-- 
@@ -128,6 +138,10 @@ _footer: Source: https://www.nature.com/articles/s41467-022-33026-0
   - [OpenBioLink](https://openbiolink.github.io/): Integration of multiple biomedical databases
   - [RTX](https://www.biorxiv.org/content/10.1101/765305v2.full.pdf): Integration of multiple biomedical databases
 
+<!-- 
+Open Hetionet and show 
+
+ -->
 ---
 
 ## Arrival of Specialized Knowledge Graphs
@@ -138,6 +152,9 @@ _footer: Source: https://www.nature.com/articles/s41467-022-33026-0
 - [PRIME](https://github.com/mims-harvard/PrimeKG): Leveraging Embedding distances for clique merging
 - ...
 
+<!-- 
+
+ -->
 
 ### There is a lot of work being done but somehow this still feels like a _breadth first search_
 
@@ -292,6 +309,3 @@ _class: lead
 
 Questions?
 
-<!-- 
-Note: This slide deck was partially generated using AI assistance.
--->
