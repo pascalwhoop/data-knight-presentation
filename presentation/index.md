@@ -38,7 +38,27 @@ _class:
 
 [Pascal Brokmeier](https://www.linkedin.com/in/pascalwhoop/)
 
-Currently Head of Engineering at<br> Every Cure
+
+---
+
+# Who is Pascal
+
+#### Work
+
+- Head of Engineering at **Every Cure**
+- Previously Principal Data Engineer at **Quantum Black**
+- And of course ... a **Data Minded** Engineer as well 😊
+
+#### Education
+
+- Studied in Information Systems at University of Cologne <br/> ("Duales Studium")
+
+#### Life
+
+- Born in Germany
+- Live in the Netherlands
+- Always keen to meet new people, **do come say hi** later!
+
 
 ---
 
@@ -220,19 +240,21 @@ However, we are still using the KG as an intermediate information representation
 
 ---
 
-## Maybe _Attention is all you need_?
+## (Raw Take): Maybe _Attention is all you need_? Transformers may just directly generate the prioritized drug list for each disease
 
-![bg 50%](./assets/attentionallyouneed.excalidraw.svg)
+![bg 90%](./assets/attentionallyouneed.excalidraw.svg)
+![bg 90%](./assets/gpt3_predictions.gif)
+
 
 ---
-
-## Problems which remain
+## Independent of the approach, scalability, bias, explainability and verifiability remain hard problems
 
 - Scalability issues with growing biomedical data when KG representation remains
 - Data bias affecting predictions
 - Lack of explainability ("black box" problem)
 - Limited integration of real-world data
-- Generating predictions is easy, verifying if they are correct is hard
+
+Most of all: **Generating predictions is easy, verifying if they are correct is hard**
 
 
 
@@ -241,8 +263,8 @@ However, we are still using the KG as an intermediate information representation
 ## Conclusions: 
 
 1. KGs broke the silos. Good!
-2. But we are hitting their limitations
-3. Foundation Models might be the answer
+2. But we are hitting their limitations: Manual curation, thinking in IDs, missing continuous data
+3. Foundation Models might be a total replacement, rather than just a Turbo Charger we tack onto it
 4. But unless you solve the verification problem all you have is a black box 
 
 ---
